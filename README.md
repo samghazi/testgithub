@@ -1,2 +1,5 @@
 # fygithub
-GitHub Practical Demonstation
+exit
+
+
+Hello FyCS
